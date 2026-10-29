@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lakhan1212/lakhan1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,5 +55,5 @@ and learning how systems work under the hood.
 
 ### 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
+- LinkedIn: https://www.linkedin.com/in/lakhan-shendge-44a779385/
+- Email: lakhanshendge7862@gmail.com
